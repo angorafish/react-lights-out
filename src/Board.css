@@ -1,0 +1,14 @@
+.Board {
+  border-spacing: 5px;
+  margin: 20px auto;
+}
+
+.Board-won {
+  text-align: center;
+  font-size: 2em;
+  color: green;
+}
+
+.Board-row {
+  display: flex;
+}
